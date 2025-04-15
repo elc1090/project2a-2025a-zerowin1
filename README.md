@@ -1,13 +1,7 @@
 # Projeto2a: GitHub API e DOM Manipulation
 
-> 1. Baixe este arquivo e edite o texto em formato Markdown conforme as instruções a seguir.
-> 2. Substitua todos os blocos "Preencha aqui" por informações do seu projeto. 
-> 3. Substitua a imagem por pelo menos um screenshot do projeto (arquivo pode ser armazenado no repositório ou em URL externa). GIFs animados também são permitidos!
-> 4. Remova todas as instruções de entrega.
-> 5. Double-check: Certifique-se de que seu README.md não contenha instruções de entrega!
-> 6. Entregue este README.md dentro da pasta raiz do repositório de entrega. 
+![Screenshot do projeto](img/1.png "Screenshot do projeto").
 
-![Screenshot do projeto](https://mdswanson.com/static/chops-ux-step-4.png "Screenshot do projeto").
 
 
 #### Deploy
@@ -17,27 +11,23 @@ Preencha aqui a URL para acesso ao site publicado
 
 #### Desenvolvedor(a)
 
-Preencha aqui seu nome
-
+Thales de Vargas Stamm
 
 #### Ambiente de desenvolvimento
 
-Preencha aqui uma lista detalhada de ferramentas de desenvolvimento usadas, por exemplo:
-- VS Code
-- Outras
+VS Code
 
 #### Créditos
 
-Preencha aqui uma lista detalhada de recursos aproveitados no projeto, por exemplo:
-- URL de tutoriais/vídeos consultados
-- Créditos para colegas que colaboraram
-
+- https://codesnippet.io/github-api-tutorial/
+- https://www.youtube.com/watch?v=7x3YrAiu5HI
+- GPT
+  
 
 #### Bastidores
 
-
-Preencha aqui um breve relato dos bastidores da realização deste exercício, com suas impressões.
-
+Tentei seguir o mesmo padrão de design do projeto original, alterando apenas o método de exibição, achei que do modo que fiz em cards com o bootstrap conseguiria aproveitar melhor a tela e troquei a URL pra um botão destacado... Na descrição de cada repo, passando um limite de caracteres ele apenas adiciona (...) no fim e corta para manter um padrão de tamanho.
+Selecionando no dropdown um dos repositórios, são exibidos todos os commits, que escolhi não limitar o tanto de caracteres para a descrição. Estudei pelos tutoriais e fui desenvolvendo passo a passo, no caminho houveram alguns problemas, um foi que ao selecionar o repositório, o nome do usuário estava sendo perdido e acabava não retornando nada (não consegui desvendar o que estava causando), mas, com a ajuda do chatGPT, consegui contornar esse problema. O design ficou bem simples, mas acredito que a proposta esteja sendo cumprida.
 
 
 ---
