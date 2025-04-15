@@ -1,6 +1,6 @@
 # Projeto2a: GitHub API e DOM Manipulation
 
-![Screenshot do projeto](img/1.png "Screenshot do projeto").
+![Screenshot do projeto](github-api-tutorial-main/img/1.png "Screenshot do projeto").
 
 
 
